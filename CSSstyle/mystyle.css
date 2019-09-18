@@ -1,0 +1,17 @@
+.nav {
+    text-transform: uppercase
+}
+
+.about_font {
+    font-family: 'PT Serif Caption', serif;
+}
+
+.bg {
+    position: relative;
+    background-image: url("superchild.jpg");
+    width: 100%;
+    height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
