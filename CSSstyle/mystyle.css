@@ -1,9 +1,18 @@
+.navbar{
+    background-color: #E98074;
+}
 .nav {
     text-transform: uppercase
 }
 
 .about_font {
     font-family: 'PT Serif Caption', serif;
+}
+
+.about{
+    background-color: #EAE7DC;
+    padding: 0px;
+    margin: 0px;
 }
 
 .about_bg {
@@ -18,7 +27,7 @@
 }
 
 .statistic {
-    height: 100px;
+    height: 150px;
     border: 1px solid black;
     background-color: #FFB6C1;
     margin: 20px;
