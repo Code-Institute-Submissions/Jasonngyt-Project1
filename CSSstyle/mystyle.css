@@ -33,3 +33,13 @@
     color: white;
     padding: 20px;
 }
+
+.services {
+    border: 3px #E85A4F solid;
+    background-color: #E85A4F;
+    color: white;
+}
+
+.services_border {
+    border: 1px #E85A4F solid;
+}
