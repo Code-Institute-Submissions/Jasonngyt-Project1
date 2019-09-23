@@ -43,3 +43,16 @@
 .services_border {
     border: 1px #E85A4F solid;
 }
+
+body, html {
+  height: 100%;
+}
+
+.enquiry_bg {
+  background-image: url("../image/enquiry_background.jpg");
+  width: 100%;
+  height: 80vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
