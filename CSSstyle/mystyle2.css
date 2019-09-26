@@ -1,3 +1,6 @@
+
+@import url('//fonts.googleapis.com/css?family=Josefin+Slab:400,700');
+
 /* Enquire CSS */
 
 *{
@@ -6,53 +9,87 @@
 	box-sizing: border-box;
 }
 
-.box{
+.service1_photo{
+	background-image: url("../image/conseling.jpg");
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-family:'Josefin Slab', 'Myriad Pro', Arial, sans-serif;
+    font-size: 42px;
+    text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
     width:100%;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    color: white;
+    text-align: center;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.service2_photo{
+	background-image: url("../image/art_therapy.jpg");
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-family:'Josefin Slab', 'Myriad Pro', Arial, sans-serif;
+    font-size: 42px;
+    text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
+    width:100%;
+    color: white;
+    text-align: center;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.service3_photo{
+	background-image: url("../image/family_beach.jpg");
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-family: 'Josefin Slab', Arial, sans-serif;
+    font-size: 42px;
+    text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
+    width:100%;
+    color: white;
+    text-align: center;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.service4_photo{
+	background-image: url("../image/children_fun.jpg");
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-family: 'Josefin Slab', Arial, sans-serif;
+    font-size: 42px;
+    text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
+    width:100%;
     color: white;
     text-align: center;
     font-size: large;
     overflow: hidden;
     display: inline-block;
-    
-}
-
-.service1_photo{
-    height: 100vh;
-	background-image: url("../image/conseling.jpg");
-	background-position: center;
-	background-attachment: fixed;
-	background-size: cover;
-}
-
-.service2_photo{
-    height: 100vh;
-	background-image: url("../image/kid_draw.jpg");
-	background-position: center;
-	background-attachment: fixed;
-	background-size: cover;
-}
-
-.service3_photo{
-    height: 100vh;
-	background-image: url("../image/family_beach.jpg");
-	background-position: center;
-	background-attachment: fixed;
-	background-size: cover;
-}
-
-.service4_photo{
-    height: 100vh;
-	background-image: url("../image/children_fun.jpg");
-	background-position: center;
-	background-attachment: fixed;
-	background-size: cover;
 }
 
 .service_word{
-    background-color: #821134;
-    vertical-align: center;
+    background-color: #F19CBB;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Josefin Slab', Arial, sans-serif;
+    font-size: 20px;
+    text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
+    width:100%;
+    color: white;
+    text-align: center;
+    overflow: hidden;
+    display: inline-block;
 }
 
 .statistic {
@@ -61,4 +98,47 @@
     margin: 20px;
     color: white;
     padding: 20px;
+}
+
+.header_nav{
+    font-family: 'Josefin Slab', Arial, sans-serif;
+}
+
+.footer_nav{
+     background-color: #e23a6e;
+     font-family: 'Josefin Slab', Arial, sans-serif;
+     color: white;
+     text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
+}
+
+.event_style{
+    border: 1px solid #F19CBB;
+    background-color: #F19CBB;
+    color: white;
+    font-family: 'Josefin Slab', Arial, sans-serif;
+    text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
+}
+
+.enquiry_bg{
+    background-image: url("../image/pink_background.jpg");
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    width: 100wh;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+.form_bg{
+    position: absolute;
+    right: 100px;
+    top: 10px;
+      
+}
+
+.youtube-player{
+    position: absolute;
+    left: 130px;
+    top: 440px;
+    z-index: 1;
 }
