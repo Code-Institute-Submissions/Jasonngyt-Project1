@@ -9,8 +9,11 @@
 	box-sizing: border-box;
 }
 
+
+/* Our Service CSS */
+
 .service1_photo{
-	background-image: url("../image/conseling.jpg");
+	background-image: url("../image/service1_photo.jpg");
 	background-position: center;
 	background-attachment: fixed;
 	background-size: cover;
@@ -27,7 +30,7 @@
 }
 
 .service2_photo{
-	background-image: url("../image/art_therapy.jpg");
+	background-image: url("../image/service2_photo.jpg");
 	background-position: center;
 	background-attachment: fixed;
 	background-size: cover;
@@ -44,7 +47,7 @@
 }
 
 .service3_photo{
-	background-image: url("../image/family_beach.jpg");
+	background-image: url("../image/service3_photo.jpg");
 	background-position: center;
 	background-attachment: fixed;
 	background-size: cover;
@@ -56,24 +59,6 @@
     width:100%;
     color: white;
     text-align: center;
-    overflow: hidden;
-    display: inline-block;
-}
-
-.service4_photo{
-	background-image: url("../image/children_fun.jpg");
-	background-position: center;
-	background-attachment: fixed;
-	background-size: cover;
-    padding-top: 100px;
-    padding-bottom: 100px;
-    font-family: 'Josefin Slab', Arial, sans-serif;
-    font-size: 42px;
-    text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
-    width:100%;
-    color: white;
-    text-align: center;
-    font-size: large;
     overflow: hidden;
     display: inline-block;
 }
@@ -92,7 +77,28 @@
     display: inline-block;
 }
 
-.statistic {
+
+/* Our Achievement CSS */
+
+.achievement_photo{
+	background-image: url("../image/achievement_photo.jpg");
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-family: 'Josefin Slab', Arial, sans-serif;
+    font-size: 42px;
+    text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
+    width:100%;
+    color: white;
+    text-align: center;
+    font-size: large;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.achievement {
     height: 200px;
     background-color: #e23a6e;
     margin: 20px;
@@ -100,16 +106,8 @@
     padding: 20px;
 }
 
-.header_nav{
-    font-family: 'Josefin Slab', Arial, sans-serif;
-}
 
-.footer_nav{
-     background-color: #e23a6e;
-     font-family: 'Josefin Slab', Arial, sans-serif;
-     color: white;
-     text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
-}
+/* Our Event CSS */
 
 .event_style{
     border: 1px solid #F19CBB;
@@ -118,6 +116,9 @@
     font-family: 'Josefin Slab', Arial, sans-serif;
     text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
 }
+
+
+/* Our Enquiry CSS */
 
 .enquiry_bg{
     background-image: url("../image/pink_background.jpg");
@@ -129,16 +130,22 @@
     background-repeat: no-repeat;
 }
 
-.form_bg{
-    position: absolute;
-    right: 100px;
-    top: 10px;
-      
+/* Video Player CSS in Enquiry */
+.youtube-player{
+    z-index: 1;
 }
 
-.youtube-player{
-    position: absolute;
-    left: 130px;
-    top: 440px;
-    z-index: 1;
+/* Header Navbar CSS */
+
+.header_nav{
+    font-family: 'Josefin Slab', Arial, sans-serif;
+}
+
+/* Footer Navbar CSS */
+
+.footer_nav{
+     background-color: #e23a6e;
+     font-family: 'Josefin Slab', Arial, sans-serif;
+     color: white;
+     text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
 }
