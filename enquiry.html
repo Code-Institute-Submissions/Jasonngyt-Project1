@@ -13,7 +13,7 @@
     <script src="https://kit.fontawesome.com/749eb0769b.js"></script>
     
     <!--Google Font -->
-    <link href="https://fonts.googleapis.com/css?family=PT+Serif+Caption&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Slab|Mansalva&display=swap" rel="stylesheet">
 
     <!-- mystyle.css -->
     <link rel="stylesheet" href="CSSstyle/mystyle2.css" type="text/css"/>
@@ -21,10 +21,11 @@
 </head>
 <body>
     
-    <!-- Navbar -->
-    <nav class="navbar navbar-expand-md navbar-light">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="index1.html"><img src ="image/logo.png" class ="w-25"></a>
+    <!-- Header Navbar -->
+    <nav class="navbar navbar-expand-md navbar-light font-weight-bold header_nav">
+        <div class="container-fluid d-inline-flex">
+            <a class="navbar-brand" href="index.html">
+            <img src ="image/logo.png" style="max-width: 100px;"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -32,7 +33,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                        <a class="nav-link nav text-uppercase" href="index1.html"><strong>About</strong><span class="sr-only">(current)</span></a>
+                        <a class="nav-link nav text-uppercase" href="index.html"><strong>Home</strong><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-uppercase" href="services.html"><strong>Our Services</strong></a>
@@ -46,17 +47,24 @@
     </nav>
    
     <!-- background image -->
-    <div class="container-fluid enquiry_bg d-sm-none d-md-block">
+    <div class="container-fluid enquiry_bg">
     
-     <div class=container>
+     <div class="container">
          <div class="row">
             <!-- video -->
-            <iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/0Xad2gb6fMU"
-                width="400" height="250" frameborder="0" allowfullscreen>
-            </iframe>
-            
+            <div class="m-auto">
+                <div class="video-responsive">
+                    <iframe class="youtube-player align-center" type="text/html" src="https://youtube.com/embed/0Xad2gb6fMU?start=0&end=175"
+                            width="420px" height="315px" frameborder="0" allowfullscreen> 
+                    </iframe>
+                </div>
+                <div>
+                    <h3 class="m-auto bg-white bg_word">I have a dream. Can you help me?</h3>
+                </div>
+            </div>
+
             <!-- Form -->
-            <div class="container col-md-5 bg-light m-3 float-right">
+            <div class="container col-sm-10 col-md-5 pt-2 pb-2 bg-light">
                 <div><h3> Contact Us </h3></div>
                 <form>
                     <div class="form-group">
@@ -93,8 +101,8 @@
         
     
     <!-- Footer Navbar -->
-    <nav class="navbar navbar-light justify-content-center position-relative footer_nav">
-        <div class="row pr-mb-3 p-sm-2">
+    <nav class="navbar navbar-light justify-content-md-center footer_nav">
+        <div class="row">
             <div class="fas fa-map-marked-alt pr-4"> Address: 24 Ang Mo Kio Street 5, Singapore 661565</div>
         </div>
         <div class="row pr-mb-3 p-sm-2">
@@ -102,8 +110,8 @@
             <div class="fas fa-envelope pr-4"> Email: <a href="maito: sparkletree@charity.com">sparkletree@charity.com </a></div>
         </div>
         <div class="row p-sm-1" align="left">
-            <div class="pr-4">Follow Us on</div>
-            <a class="navbar-brand" href="#! pr-4"><i class="fab fa-facebook-square text-white pr-3"></i></a>
+            <div class="pr-4 pt-2">Follow Us on</div>
+            <a class="navbar-brand" href="#! pr-4 pt-2"><i class="fab fa-facebook-square text-white pr-3"></i></a>
             <a class="navbar-brand" href="#!"><i class="fab fa-instagram text-white"></i></a>
         </div>
     </nav>

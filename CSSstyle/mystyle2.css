@@ -123,22 +123,41 @@
 .enquiry_bg{
     background-image: url("../image/pink_background.jpg");
     position: relative;
-    margin: 0px;
-    padding: 0px;
-    width: 100wh;
-    height: 100vh;
     background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px;
 }
 
 /* Video Player CSS in Enquiry */
 .youtube-player{
     z-index: 1;
+    
+}
+
+.video-responsive{
+    overflow:hidden;
+    padding-bottom: 100%;
+    position:relative;
+    height:0;
+}
+
+.video-responsive iframe{
+    left:0;
+    top:10%;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.bg_word{
+    font-family: 'Mansalva', cursive;
 }
 
 /* Header Navbar CSS */
 
 .header_nav{
     font-family: 'Josefin Slab', Arial, sans-serif;
+    
 }
 
 /* Footer Navbar CSS */
@@ -148,4 +167,7 @@
      font-family: 'Josefin Slab', Arial, sans-serif;
      color: white;
      text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
+     bottom: 0px;
+     padding-top: 5px;
+     padding-bottom: 5px;
 }
