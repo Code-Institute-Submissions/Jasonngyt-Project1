@@ -14,9 +14,11 @@ Till date, the Society reached out to 28,578 children, youth and families in ne
 4) User would like to see the past events held by the society.
 5) User would like to contact the society for volunteer opportunity.
 6) User would like to donate money to the website.
+
 #### Organization Goals
 The society wants to create a website to try to reach out for more volunteers and donations to aid the needy children. As such, the following organization goals have been identified:
-1)Organization would like to introduce the Society to website visitors.
-2)Organization would like to show visitors the activities and services provided by the Society.
-3)Organization would like to allow visitors to sign up as volunteers.
-4)Organization would like to allow visitors to made donation to the Society. 
+
+1) Organization would like to introduce the Society to website visitors.
+2) Organization would like to show visitors the activities and services provided by the Society.
+3) Organization would like to allow visitors to sign up as volunteers.
+4) Organization would like to allow visitors to made donation to the Society. 
