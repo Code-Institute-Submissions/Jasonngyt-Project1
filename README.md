@@ -106,3 +106,31 @@ The application was tested on Firefox and Google Chrome. The site functioned sat
 | 8	| The website should goes back to the homepage Index.html when the user clicks on the Logo on the top left corner. |	Pass |
 | 9	| All the website layout should be mobile responsive and follow the layout as stated in the wireframe.	| Pass |
 
+#### Problems Encountered/Bugs solved
+
+* The embedded video in enquire do not show initially. The /embed/ is added before the video id to resolve the issue. The embedded video has advertisement in the end which I do not wish to show. ?start=0&end=175 is added to fixed the start and end time of the video. 
+* Both solutions are found in stackoverflow.
+
+## Deployment
+
+This project was written using AWS Cloud IDE and deployed to GitHub.
+
+1. At the start of the project, I created my first index.html file in Cloud9.
+2. Next, I opened a new terminal and type in the git init command to initialize a local repository.
+3. A new remote repository was created with a name My First Project.
+4. After creating the repository in GitHub, I copy the code given back in Cloud9 to link the local repository to the remote one.
+5. Under the new terminal in Cloud9, the index.html is added using the git add command.
+6. I typed in the command git commit -m “Initial commit”, which puts the file into the staging area for the first commit.
+7. Next, I used the git push command to send the file to the remote repository.
+8. The terminal will prompt for the username and password.
+9. The command git add, git commit -m “message” and git push are used to saved the rest of the html files (services.html and enquiry.html) and website pictures to the remote repository.
+10. I tried to push the code regularly to Github every time there is any updates to the files. It served as a backup as I know I can go back to my history to retrieve my earlier codes if I messed up my current codes in Cloud9.
+
+## Credits
+* The HTML and CSS code in index page came from dodozhang21 in codepen. The content were highly modified to fit in with the theme.
+* The website information and some photos are extracted from Children Society.
+* All photos were obtained from a stock image library called Pixels.
+* The logo was taken from Shutterstocks. 
+* The heartwarming video in enquire page is linked to Khanwade Abutalib in Youtube.
+* The problems are resolved with reference to similar problems faced by other programmer in Stackoverflow as well as advises from the teachers.
+* The styling and features were made with reference to the tutorial from W3schools.
