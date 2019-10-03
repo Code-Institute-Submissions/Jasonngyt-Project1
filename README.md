@@ -97,13 +97,12 @@ The application was tested on Firefox and Google Chrome. The site functioned sat
 | Test Case(s)	| Test Description |	Outcome |
 |     ---       |       ---        |    ---   |
 | 1 |	In the homepage Index.html, the user clicks on bottom navigation bar, the website should display the information accordingly. |	Pass |
-
-2	In the home page Index.html, the website should re-direct to other web pages (Services,html and Enquiry.html) when the user click on the Find Out More link.	Pass
-3	In the Services.html, the photos and wording must not overlap each other when display in different platform or display.	Pass
-4	In the Services.html, the top navigation bar should show 3 different link and combine into hamburger menu when changes to mobile display.	Pass
-5	In the Enquiry.html, the video should play when the user click on it.	Pass
-6	In the Enquiry.html, user should be able to fill up their particular in the form and click on the Submit button.	Pass
-7	In the Enquiry.html, a reminder will be display if the user forgets to fill in their name and email address.	Pass
-8	The website should goes back to the homepage Index.html when the user clicks on the Logo on the top left corner.	Pass
-9	All the website layout should be mobile responsive and follow the layout as stated in the wireframe.	Pass
+| 2	 | In the home page Index.html, the website should re-direct to other web pages (Services,html and Enquiry.html) when the user click on the Find Out More link. |	Pass |
+| 3	| In the Services.html, the photos and wording must not overlap each other when display in different platform or display.	| Pass |
+| 4 |	In the Services.html, the top navigation bar should show 3 different link and combine into hamburger menu when changes to mobile display. |	Pass |
+| 5	| In the Enquiry.html, the video should play when the user click on it. |	Pass |
+| 6	| In the Enquiry.html, user should be able to fill up their particular in the form and click on the Submit button.	| Pass |
+| 7	| In the Enquiry.html, a reminder will be display if the user forgets to fill in their name and email address. |	Pass |
+| 8	| The website should goes back to the homepage Index.html when the user clicks on the Logo on the top left corner. |	Pass |
+| 9	| All the website layout should be mobile responsive and follow the layout as stated in the wireframe.	| Pass |
 
