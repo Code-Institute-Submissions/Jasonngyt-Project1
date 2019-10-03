@@ -91,6 +91,12 @@ The impression I are trying to achieve for the end user is simple and clean layo
 
 The website was tested on mobile phone and desktop. In addition, the website was tested using different viewport under the inspector tools. The site is fully responsive - it's mobile, laptop and desktop-friendly.
 
+##### Mobile View
+<img src = "image/mobile_view.jpg">
+
+##### Desktop View
+<img src = "image/desktop_view.jpg">
+
 #### Browser Compatibility
 The application was tested on Firefox and Google Chrome. The site functioned satisfactorily on both browsers.
 
