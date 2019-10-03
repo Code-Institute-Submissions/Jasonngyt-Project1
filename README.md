@@ -4,7 +4,8 @@ This project focuses on the website development for a non-profit society called 
 Sparkle Tree Children Home is a children home established in 1996. The Society aims to provide a holistic range of residential care, specialized therapy, and psychological services to support and empower the most vulnerable in our community through their challenges of adverse family circumstances, family violence, and child neglect.
 
 Till date, the Society reached out to 28,578 children, youth and families in need.
-index.html
+
+<a href = index.html>Click here to view Homepage</a>
 
 ## Project Strategy
 ### UX
