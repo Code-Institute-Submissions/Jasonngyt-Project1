@@ -5,7 +5,7 @@ Sparkle Tree Children Home is a children home established in 1996. The Society a
 
 Till date, the Society reached out to 28,578 children, youth and families in need.
 
-<a href = index.html>Click here to view Homepage</a>
+<a href = https://jasonngyt.github.io/Project1/index.html>Click here to view Homepage</a>
 
 ## Project Strategy
 ### UX
