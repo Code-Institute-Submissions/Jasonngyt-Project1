@@ -4,6 +4,7 @@ This project focuses on the website development for a non-profit society called 
 Sparkle Tree Children Home is a children home established in 1996. The Society aims to provide a holistic range of residential care, specialized therapy, and psychological services to support and empower the most vulnerable in our community through their challenges of adverse family circumstances, family violence, and child neglect.
 
 Till date, the Society reached out to 28,578 children, youth and families in need.
+index.html
 
 ## Project Strategy
 ### UX
@@ -127,7 +128,7 @@ This project was written using AWS Cloud IDE and deployed to GitHub.
 10. I tried to push the code regularly to Github every time there is any updates to the files. It served as a backup as I know I can go back to my history to retrieve my earlier codes if I messed up my current codes in Cloud9.
 
 ## Credits
-* The HTML and CSS code in index page came from dodozhang21 in codepen. The content were highly modified to fit in with the theme.
+* The HTML and CSS code in index page came from [dodozhang21](https://codepen.io/dodozhang21/pen/KFkaf) in codepen. The content were highly modified to fit in with the theme.
 * The website information and some photos are extracted from Children Society.
 * All photos were obtained from a stock image library called Pixels.
 * The logo was taken from Shutterstocks. 
