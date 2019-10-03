@@ -63,17 +63,46 @@ I wished to add credit card payment services for the donation pages.
 
 The theme by dodozhang21 used in the home page is chosen as it give visitors a clean and simple layout. The content is modified to fix the theme. The bottom navigation bar display the 5 main information part by part so that the visitor can digest the information better.
 
-### Colours
+#### Colours
 
 Different shades of pink are used to communicate love, peace and kindness to the visitor.
 
-### Logo
+#### Logo
 
 The icon has been taken from Shutterstocks. The rainbow sparkle above the child represent the different dreams that the child is trying to achieve. The overall shape of the logo looks like a tree which fit perfectly to the children home name Sparkle Tree.
 The impression I are trying to achieve for the end user is simple and clean layout. End User should be able to retrieve their required information easily.
 
 ### Technologies Used
+
 * HTML4.0 and CSS3 were the main language used in this project.
 * Bootstrap was used to make the website mobile responsive.
 * Cloud9 was used as the IDE for building the website.
 * Repository hosted on GitHub
+
+### Libraries
+
+* The icons were taken from Font Awesome.
+* The fonts are found in Google Fonts.
+
+### Testing
+
+#### Responsiveness
+
+The website was tested on mobile phone and desktop. In addition, the website was tested using different viewport under the inspector tools. The site is fully responsive - it's mobile, laptop and desktop-friendly.
+
+#### Browser Compatibility
+The application was tested on Firefox and Google Chrome. The site functioned satisfactorily on both browsers.
+
+
+| Test Case(s)	| Test Description |	Outcome |
+| --- | --- |
+|1 |	In the homepage Index.html, the user clicks on bottom navigation bar, the website should display the information accordingly. |	Pass |
+2	In the home page Index.html, the website should re-direct to other web pages (Services,html and Enquiry.html) when the user click on the Find Out More link.	Pass
+3	In the Services.html, the photos and wording must not overlap each other when display in different platform or display.	Pass
+4	In the Services.html, the top navigation bar should show 3 different link and combine into hamburger menu when changes to mobile display.	Pass
+5	In the Enquiry.html, the video should play when the user click on it.	Pass
+6	In the Enquiry.html, user should be able to fill up their particular in the form and click on the Submit button.	Pass
+7	In the Enquiry.html, a reminder will be display if the user forgets to fill in their name and email address.	Pass
+8	The website should goes back to the homepage Index.html when the user clicks on the Logo on the top left corner.	Pass
+9	All the website layout should be mobile responsive and follow the layout as stated in the wireframe.	Pass
+
