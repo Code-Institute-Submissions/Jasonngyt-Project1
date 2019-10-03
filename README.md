@@ -129,9 +129,9 @@ This project was written using AWS Cloud IDE and deployed to GitHub.
 
 ## Credits
 * The HTML and CSS code in index page came from [dodozhang21](https://codepen.io/dodozhang21/pen/KFkaf) in codepen. The content were highly modified to fit in with the theme.
-* The website information and some photos are extracted from Children Society.
-* All photos were obtained from a stock image library called Pixels.
-* The logo was taken from Shutterstocks. 
-* The heartwarming video in enquire page is linked to Khanwade Abutalib in Youtube.
-* The problems are resolved with reference to similar problems faced by other programmer in Stackoverflow as well as advises from the teachers.
-* The styling and features were made with reference to the tutorial from W3schools.
+* The website information and some photos are extracted from [Children's Aid Society](http://childrensaidsociety.org.sg/cas/).
+* All photos were obtained from a stock image library called [Pexels](https://www.pexels.com/).
+* The logo was taken from [Shutterstocks](https://www.shutterstock.com/g/hantsdesign/sets/63050880). 
+* The heartwarming video in enquire page is linked to [Khanwade Abutalib](https://www.youtube.com/watch?v=0Xad2gb6fMU&feature=youtu.be) in Youtube.
+* The problems are resolved with reference to similar problems faced by other programmer in [Stackoverflow](https://www.youtube.com/watch?v=0Xad2gb6fMU&feature=youtu.be) as well as advises from the teachers.
+* The styling and features were made with reference to the tutorial from [W3schools](https://www.w3schools.com/).
