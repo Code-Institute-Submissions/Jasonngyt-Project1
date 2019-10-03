@@ -95,8 +95,9 @@ The application was tested on Firefox and Google Chrome. The site functioned sat
 
 
 | Test Case(s)	| Test Description |	Outcome |
-| --- | --- |
-|1 |	In the homepage Index.html, the user clicks on bottom navigation bar, the website should display the information accordingly. |	Pass |
+|     ---       |       ---        |    ---   |
+| 1 |	In the homepage Index.html, the user clicks on bottom navigation bar, the website should display the information accordingly. |	Pass |
+
 2	In the home page Index.html, the website should re-direct to other web pages (Services,html and Enquiry.html) when the user click on the Find Out More link.	Pass
 3	In the Services.html, the photos and wording must not overlap each other when display in different platform or display.	Pass
 4	In the Services.html, the top navigation bar should show 3 different link and combine into hamburger menu when changes to mobile display.	Pass
