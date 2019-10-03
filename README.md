@@ -22,3 +22,15 @@ The society wants to create a website to try to reach out for more volunteers an
 2) Organization would like to show visitors the activities and services provided by the Society.
 3) Organization would like to allow visitors to sign up as volunteers.
 4) Organization would like to allow visitors to made donation to the Society. 
+
+## Project Scope
+Based on the user stories and organizational goals identified, these are the following features the website is going to implement:
+
+### Pages/Features
+..* Home Page - The Home page consist of 5 pages which contain the main information that the organization wish to bring to the visitors. 
+2) Service - The Service page shows the services and activities provided by the organization.
+3) Enquiry - The Enquiry page allows the visitors to contact the organization for interest of donation or volunteer.
+
+## Project Structure
+### Wire Frame
+https://drive.google.com/file/d/1h7-L2EMgEFP5iz_8PZlI4G93xdTsSd7D/view?usp=sharing
